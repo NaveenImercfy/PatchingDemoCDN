@@ -1,0 +1,8 @@
+$NUM_ENTRIES = 6
+$BUILD_ID = PatchingDemoKey
+pakchunk5001-Windows.ucas	590480	ver01	5001	/Windows/pakchunk5001-Windows.ucas
+pakchunk5002-Windows.ucas	579856	ver01	5002	/Windows/pakchunk5002-Windows.ucas
+pakchunk5001-Windows.utoc	1377	ver01	5001	/Windows/pakchunk5001-Windows.utoc
+pakchunk5002-Windows.utoc	1724	ver01	5002	/Windows/pakchunk5002-Windows.utoc
+pakchunk5001-Windows.pak	339	ver01	5001	/Windows/pakchunk5001-Windows.pak
+pakchunk5002-Windows.pak	339	ver01	5002	/Windows/pakchunk5002-Windows.pak
